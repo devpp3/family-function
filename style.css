@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.herosection{
+    background-image: url('./shresha/20220503_120544.jpg');
+    height: 150vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.herosection1{
+    background-image: url('./shresha/IMG_20220503_134119.jpg');
+    height: 200vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.herosection2{
+    background-image: url('./shresha/IMG_20220503_133455.jpg');
+    height: 200vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.herosection3{
+    background-image: url('./shresha/IMG_20220503_133602.jpg');
+    height: 200vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.herosection4{
+    background-image: url('./shresha/IMG_20220503_133743.jpg');
+    height: 200vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+h1{
+    padding-top: 20px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+color: black;
+box-shadow: 5px 10px 5px 5px rgb(221, 27, 163);
+}
+
+ p{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+color: black;
+align-items: center;
+justify-content: space-between;
+ }
+
+ button{
+     padding: 15px;
+     font-size: 30px;
+     border-radius: 25px;
+     background-color: chartreuse;
+ }
+
+ nav{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+     }
+
+     .mainnav a{
+        font-size: 30px;
+        color: rgb(240, 90, 21);
+        font-weight: bolder;
+        text-decoration: none;
+        margin-right: 10px;
+        text-decoration: none;
+    }
+
+ 
